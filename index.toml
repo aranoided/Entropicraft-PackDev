@@ -26,11 +26,31 @@ hash = "9c15e6be46bee7ac321cec3a7fa2bebfce7d29b9caf3315c2bf8b02232013267"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "68855a4afa5fa27392c4e42c984e02ced5ad68bdfb08dbb23431759bc14af6c0"
+metafile = true
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "a82fce8e53775fc95a40d7da5e01db8c109597b7623000abe65d807a93467e37"
+metafile = true
+
+[[files]]
 file = "mods/wunderlib-forge.pw.toml"
 hash = "059a459e6ffc97cfcde71d03ed8832c6eac9459a2d1e155f76d1220f1a0fb809"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
