@@ -1,0 +1,13 @@
+name = "appledog"
+filename = "Appledog-forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJUswzhc/versions/KyCzyhzs/Appledog-forge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "7e2a2a70f72d59cad507226f6e421637a09706fda5f293cba128b11709d3e475c0bf0478aa71f01a5d95f123d153b870cc8f051cf70f2d84fe78b5f927d02548"
+
+[update]
+[update.modrinth]
+mod-id = "dJUswzhc"
+version = "KyCzyhzs"

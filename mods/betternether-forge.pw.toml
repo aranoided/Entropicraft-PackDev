@@ -1,0 +1,13 @@
+name = "BetterNether Forge"
+filename = "BetterNether-20.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c79eb5cdf3e83081b4506e2fa9adb8c06eae0430"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7551796
+project-id = 1436171

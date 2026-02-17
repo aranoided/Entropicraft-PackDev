@@ -1,2 +1,36 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/appledog.pw.toml"
+hash = "2979b70b0351c602743f27bc73bbb48b9a22aee38ed9e7fc89bba806f52272dd"
+metafile = true
+
+[[files]]
+file = "mods/bclib-forge.pw.toml"
+hash = "f9ceda9ae9b13e3108499550d328a3621d0142a32bdd346cfc92264a447521ba"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
+file = "mods/betterend-forge.pw.toml"
+hash = "092716965129ff8df4511f6f8a56b3e5865325d3c8b5d7f77a4e49377c8f372f"
+metafile = true
+
+[[files]]
+file = "mods/betternether-forge.pw.toml"
+hash = "9c15e6be46bee7ac321cec3a7fa2bebfce7d29b9caf3315c2bf8b02232013267"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-forge.pw.toml"
+hash = "059a459e6ffc97cfcde71d03ed8832c6eac9459a2d1e155f76d1220f1a0fb809"
+metafile = true
